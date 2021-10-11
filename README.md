@@ -92,12 +92,12 @@ Name: Parth Gupta, UFID: 91997064
 
 ## The largest network that I managed to deal with for each type of topology and algorithm
 
-|Topology / Algorithm| Gossip| Push Sum|
-|:------------------:|:--------  -----:|
-|Line|30000|1500|
-|Full|30000|22500|
-|3D|60000|2000| 
-|imp3D|60000|10000|
+| Topology / Algorithm | Gossip | Push Sum |
+| --- | --- | --- |
+| Line | 30000 | 1500 |
+| Full | 30000 | 22500 |
+| 3D | 60000 | 2000 | 
+| imp3D | 60000 | 10000 |
 
 ## Built On
 
